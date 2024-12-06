@@ -12,8 +12,8 @@
     <div class="wrapper">
         <section class="form signup">
             <header> Realtime Chat Sundrop</header>
-            <form action="#">
-                <div class="error-txt">This is an error message!</div>
+            <form action="#" enctype="multipart/form-data">
+                <div class="error-txt"></div>
                 <div class="name details">
                     <div class="field input">
                         <label>First Name</label>
